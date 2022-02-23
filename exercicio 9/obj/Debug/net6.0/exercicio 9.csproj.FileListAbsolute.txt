@@ -1,0 +1,15 @@
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\bin\Debug\net6.0\exercicio 9.exe
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\bin\Debug\net6.0\exercicio 9.deps.json
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\bin\Debug\net6.0\exercicio 9.runtimeconfig.json
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\bin\Debug\net6.0\exercicio 9.dll
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\bin\Debug\net6.0\exercicio 9.pdb
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.csproj.AssemblyReference.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.AssemblyInfoInputs.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.AssemblyInfo.cs
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.dll
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\refint\exercicio 9.dll
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.pdb
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\exercicio 9.genruntimeconfig.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercicio 9\obj\Debug\net6.0\ref\exercicio 9.dll

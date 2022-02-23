@@ -1,0 +1,15 @@
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\bin\Debug\net6.0\exercício 6.exe
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\bin\Debug\net6.0\exercício 6.deps.json
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\bin\Debug\net6.0\exercício 6.runtimeconfig.json
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\bin\Debug\net6.0\exercício 6.dll
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\bin\Debug\net6.0\exercício 6.pdb
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.csproj.AssemblyReference.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.AssemblyInfoInputs.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.AssemblyInfo.cs
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.csproj.CoreCompileInputs.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.dll
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\refint\exercício 6.dll
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.pdb
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\exercício 6.genruntimeconfig.cache
+C:\Users\joaocgoncalves\Documents\GitHub\aula-3-4\exercício 6\obj\Debug\net6.0\ref\exercício 6.dll
